@@ -1,0 +1,45 @@
+.friends {
+    margin-top: 40px;
+    padding: 20px 40px;
+}
+
+.friendList {
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    padding: 0;
+    list-style: none;
+    border-radius: 4px;
+}
+
+
+.friendItem {
+    display: flex;
+    align-items: center;
+    column-gap: 40px;
+    padding: 20px 60px;
+    border-radius: 8px;
+    min-width: 80px;
+    box-shadow: 0px 0px 10px 2px #302e2f;
+}
+
+.status {
+    display: block;
+    background-color: red;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+
+.isOnline {
+    display: block;
+    background-color: green;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+
+.friendName {
+    margin: 0;
+    font-weight: 500;
+}
