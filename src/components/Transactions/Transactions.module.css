@@ -3,10 +3,12 @@
     margin-top: 40px;
     border-radius: 4px;
     background-color: rgb(254, 249, 249);
+    box-shadow: 0px 2px 10px 6px rgba(19, 255, 202, 0.37);
 }
 
 .transactionHeader {
     color: white;
+    font-size: 26px;
     background-color: rgb(75, 196, 241);
 }
 
@@ -17,6 +19,7 @@ th {
 td {
     color: rgb(87, 87, 87);
     padding: 20px;
+    font-size: 20px;
     border: 0.5px solid rgb(211, 202, 202);
     text-align: center;
 }

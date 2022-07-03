@@ -1,6 +1,7 @@
 .friends {
     margin-top: 40px;
     padding: 20px 40px;
+        box-shadow: 0px 2px 10px 6px rgba(19, 255, 202, 0.37);
 }
 
 .friendList {
